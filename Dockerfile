@@ -1,4 +1,4 @@
-FROM owncloud/ubuntu:latest
+FROM jstemen/arm32v7-ubuntu:latest
 MAINTAINER ownCloud DevOps <devops@owncloud.com>
 
 VOLUME ["/mnt/data"]
